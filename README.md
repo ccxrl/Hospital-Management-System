@@ -3,5 +3,4 @@ Our Hospital Management System is a comprehensive web app designed to streamline
 ![image](images/login.png)
 ![image](images/patients.png)
 ![image](images/view_patient.png)
-![image](images/doctors.png)
-![image](add_patient.png)
+![image](add_patients.png)
